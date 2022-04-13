@@ -1,5 +1,7 @@
 # 👻 Gimbal Ghost Default Gimbals
-The default pre-rendered sticks and template for creating your own pre-rendered sticks in Gimbal Ghost. If you have some Blender and Python skillz you can use this repo as a template to create your own custom gimbals for use in Gimbal Ghost.
+The default pre-rendered sticks and template for creating pre-rendered sticks in Gimbal Ghost.
+
+The goal of this repo is to eventually provide users with a template to create their own gimbals for use in Gimbal Ghost. 
 
 ## ⚙️ How It Works
 Gimbal Ghost's rendering speed relies on a pre-rendered set of gimbal images that are generated using the code and models in this repo. Here is a high level overview:
@@ -12,3 +14,8 @@ Gimbal Ghost's rendering speed relies on a pre-rendered set of gimbal images tha
 ## 💻 Local Development
 The following dependencies will be needed to develop locally:
 * [Blender v2.83 LTS](https://www.blender.org/download/lts/2-93/)
+
+## 📝 License
+Licensed under GPLv3.
+
+Gimbal and stick blender model modified from Bastian Sondermann's [Blackbox Sticks Exporter 3D](https://github.com/bsondermann/BlackboxSticksExporter3D).
