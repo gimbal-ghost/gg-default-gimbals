@@ -3,7 +3,7 @@ The default pre-rendered sticks and template for creating pre-rendered sticks in
 
 The goal of this repo is to eventually provide users with a template to create their own gimbals for use in Gimbal Ghost. 
 
-## How to Use
+## 🕹️ How to Use
 1. Open the `gimbal-model.blend` file within Blender.
 1. Open the scripting text editor panel in Blender.
 1. Load the `prerender.py` script in the scripting text editor panel.
